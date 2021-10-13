@@ -1,0 +1,43 @@
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+
+
+.login{
+
+background-color: black;
+color: white;
+padding: 40px;
+box-shadow:#00000030 10px 10px 10px;
+width: 500px;
+text-align:center;
+
+
+    
+}
+
+
+
+.login input{
+
+        display:block;
+        margin: 5px auto;
+}
+
+.login label{
+   font-size: 20px;
+
+}
+
+
+
+#submit{
+    margin-top: 50px;
+
+}
